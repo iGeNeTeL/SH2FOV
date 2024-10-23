@@ -48,7 +48,7 @@ So I assure you that these warnings are false alarms and do not indicate any act
 This tool is for educational and entertainment purposes only. Use it responsibly and at your own risk.
 
 
-# New Menu Desgien
+# New Menu Design
 
 ![1](https://github.com/iGeNeTeL/SH2FOV/blob/main/Images/New%20Menu/1.png)
 ![2](https://github.com/iGeNeTeL/SH2FOV/blob/main/Images/New%20Menu/2.png)
