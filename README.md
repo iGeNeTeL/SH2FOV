@@ -48,3 +48,12 @@ So I assure you that these warnings are false alarms and do not indicate any act
 This tool is for educational and entertainment purposes only. Use it responsibly and at your own risk.
 
 
+# New Menu Desgien
+
+![1](https://github.com/iGeNeTeL/SH2FOV/blob/main/Images/New%20Menu/1.png)
+![2](https://github.com/iGeNeTeL/SH2FOV/blob/main/Images/New%20Menu/2.png)
+![3](https://github.com/iGeNeTeL/SH2FOV/blob/main/Images/New%20Menu/3.png)
+![4](https://github.com/iGeNeTeL/SH2FOV/blob/main/Images/New%20Menu/4.png)
+![5](https://github.com/iGeNeTeL/SH2FOV/blob/main/Images/New%20Menu/5.png)
+![6](https://github.com/iGeNeTeL/SH2FOV/blob/main/Images/New%20Menu/6.png)
+
